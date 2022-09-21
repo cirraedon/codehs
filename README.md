@@ -7,7 +7,7 @@ Note: This code is purely for reference purposes. I do not condone code plagiari
 Please see the CodeHS Terms [here](https://codehs.com/terms).
 
 ## Progress as of:
-Week 8
+20/9/22
 
 - [x] Unit 1
   - [x] 1.1
@@ -35,7 +35,7 @@ Week 8
 - [ ] Unit 7
 - [ ] Unit 8
 - [ ] Unit 9
-  - [ ] 9.1 (in progress)
+  - [x] 9.1 
   - [ ] 9.2 (in progress)
 - [ ] Unit 10
   - [x] 10.1
