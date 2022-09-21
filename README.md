@@ -7,7 +7,7 @@ Note: This code is purely for reference purposes. I do not condone code plagiari
 Please see the CodeHS Terms [here](https://codehs.com/terms).
 
 ## Progress as of:
-20/9/22
+September 20th, 2022
 
 - [x] Unit 1
   - [x] 1.1
