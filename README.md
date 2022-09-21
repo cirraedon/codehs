@@ -35,8 +35,8 @@ Week 8
 - [ ] Unit 7
 - [ ] Unit 8
 - [ ] Unit 9
-  - [ ] 9.1
-  - [ ] 9.2
+  - [ ] 9.1 (in progress)
+  - [ ] 9.2 (in progress)
 - [ ] Unit 10
   - [x] 10.1
   - [x] 10.2
