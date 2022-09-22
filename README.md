@@ -1,4 +1,5 @@
 # Complete CodeHS Nitro Code
+###### Dedicated to Zephyr
 My solutions (and the given code) for the CodeHS Nitro course for AP Computer Science A 
 
 Most solutions are considered to be the "canon" solution, but there are a few that are brute forced simply out of a lack of effort, and a few that are needlessly overcomplicated due to an overabundance of time, and the fact that I had been coding in Java for 4 years prior.
@@ -41,3 +42,4 @@ September 20th, 2022
   - [x] 10.1
   - [x] 10.2
   - [ ] 10.3
+  
