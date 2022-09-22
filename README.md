@@ -8,28 +8,18 @@ Note: This code is purely for reference purposes. I do not condone code plagiari
 Please see the CodeHS Terms [here](https://codehs.com/terms).
 
 ## Progress as of:
-September 20th, 2022
+September 22nd, 2022
 
 - [x] Unit 1
-  - [x] 1.1
-  - [x] 1.2
-  - [x] 1.3
-  - [x] 1.4
-  - [x] 1.5
-  - [x] 1.6
-- [ ] Unit 2
-  - [x] 2.1
-  - [x] 2.2
-  - [x] 2.3
-  - [x] 2.4
-  - [x] 2.5
-  - [x] 2.6
-  - [x] 2.7
-  - [x] 2.8
-  - [ ] 2.9
-  - [ ] 2.10
-  - [ ] 2.11
+- [x] Unit 2
 - [ ] Unit 3
+  - [ ] 3.1
+  - [ ] 3.2
+  - [ ] 3.3
+  - [ ] 3.4
+  - [ ] 3.5
+  - [ ] 3.6
+  - [ ] 3.7       
 - [ ] Unit 4
 - [ ] Unit 5
 - [ ] Unit 6
