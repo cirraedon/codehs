@@ -8,7 +8,7 @@ Note: This code is purely for reference purposes. I do not condone code plagiari
 Please see the CodeHS Terms [here](https://codehs.com/terms).
 
 ## Progress as of:
-September 22nd, 2022
+September 26th, 2022
 
 - [x] Unit 1
 - [x] Unit 2
