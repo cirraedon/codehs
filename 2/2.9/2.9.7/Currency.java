@@ -21,6 +21,7 @@ public class Currency
     public Integer getDollars()
     {
         return value.intValue();
+        // intValue() truncates the Double and returns the Integer portion
     }
     
     // Returns the cents portion of value
@@ -29,7 +30,11 @@ public class Currency
     public Integer getCents()
     {
         Double newVal = value*100;
+        // newVal is now the total amount of cents ($12.34 is 1234 cents)
         return newVal.intValue() % 100;
+        // remove any full dollars from the cent count (every 100 cents makes a dollar; 
+        //                                               remove as many full 100s as possible
+        //                                               and the remainder is the original amount of cents)
     }
     
     // Returns a String representation
@@ -38,5 +43,11 @@ public class Currency
     public String toString()
     {
         return "$" + this.getDollars() + "." + this.getCents();
+        // "$" + amount of dollars + decimal point + amount of cents
+        // just like you'd write out an amount of money on paper
+        // a different usable (and cleaner) implementation is to use 
+        //                                                      return "$" + value;
+        //                                                           but the CodeHS grader checks for usage of the getDollars() and getCents() 
+        //                                                           methods in the toString() function
     }
 }

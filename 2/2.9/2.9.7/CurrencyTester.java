@@ -1,5 +1,6 @@
 public class CurrencyTester
 {
+    // no user modifications were made to this file
     public static void main(String[] args)
     {
         Currency bankRoll = new Currency(12.45);
