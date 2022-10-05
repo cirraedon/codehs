@@ -12,15 +12,9 @@ September 28th, 2022 (Spirit Week; minimal progress)
 
 - [x] Unit 1
 - [x] Unit 2
-- [ ] Unit 3
-  - [ ] 3.1
-  - [ ] 3.2
-  - [ ] 3.3
-  - [ ] 3.4
-  - [ ] 3.5
-  - [ ] 3.6
-  - [ ] 3.7       
+- [x] Unit 3  
 - [ ] Unit 4
+  - (I'm a unit ahead because I was bored :skull:)
 - [ ] Unit 5
 - [ ] Unit 6
 - [ ] Unit 7
