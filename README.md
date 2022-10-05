@@ -21,7 +21,7 @@ October 4th, 2022
 - [ ] Unit 8
 - [ ] Unit 9
   - [x] 9.1 
-  - [ ] 9.2 (in progress)
+  - [ ] 9.2
 - [ ] Unit 10
   - [x] 10.1
   - [x] 10.2
