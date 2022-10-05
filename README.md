@@ -8,7 +8,7 @@ Note: This code is purely for reference purposes. I do not condone code plagiari
 Please see the CodeHS Terms [here](https://codehs.com/terms).
 
 ## Progress as of:
-September 28th, 2022 (Spirit Week; minimal progress)
+October 4th, 2022
 
 - [x] Unit 1
 - [x] Unit 2
