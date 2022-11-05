@@ -8,20 +8,27 @@ Note: This code is purely for reference purposes. I do not condone code plagiari
 Please see the CodeHS Terms [here](https://codehs.com/terms).
 
 ## Progress as of:
-September 28th, 2022 (Spirit Week; minimal progress)
+November 4th, 2022 (oh my god we finally finished that godforsaken codio project and took the unit 3 test)
 
 - [x] Unit 1
 - [x] Unit 2
-- [ ] Unit 3
-  - [ ] 3.1
-  - [ ] 3.2
-  - [ ] 3.3
-  - [ ] 3.4
-  - [ ] 3.5
-  - [ ] 3.6
-  - [ ] 3.7       
+- [x] Unit 3 
 - [ ] Unit 4
+  - [ ] 4.1
+  - [ ] 4.2
+  - [ ] 4.3
+  - [ ] 4.4
+  - [ ] 4.5
 - [ ] Unit 5
+  - [x] 5.1
+  - [x] 5.2
+  - [x] 5.3
+  - [x] 5.4
+  - [x] 5.5
+  - [ ] 5.6
+  - [ ] 5.7
+  - [ ] 5.8
+  - [ ] 5.9
 - [ ] Unit 6
 - [ ] Unit 7
 - [ ] Unit 8
