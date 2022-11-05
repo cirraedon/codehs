@@ -8,7 +8,6 @@ Note: This code is purely for reference purposes. I do not condone code plagiari
 Please see the CodeHS Terms [here](https://codehs.com/terms).
 
 ## Progress as of:
-<<<<<<< HEAD
 November 4th, 2022 (oh my god we finally finished that godforsaken codio project and took the unit 3 test)
 
 - [x] Unit 1
