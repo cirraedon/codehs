@@ -13,13 +13,7 @@ November 4th, 2022 (oh my god we finally finished that godforsaken codio project
 - [x] Unit 1
 - [x] Unit 2
 - [x] Unit 3 
-- [ ] Unit 4
-  - [x] 4.1
-  - [x] 4.2
-  - [x] 4.3
-    - [x] used StringBuilder to make it absolutely trivial?
-  - [ ] 4.4
-  - [ ] 4.5
+- [x] Unit 4
 - [ ] Unit 5
   - [x] 5.1
   - [x] 5.2
