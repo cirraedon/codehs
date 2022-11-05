@@ -14,7 +14,7 @@ November 4th, 2022 (oh my god we finally finished that godforsaken codio project
 - [x] Unit 2
 - [x] Unit 3 
 - [ ] Unit 4
-  - [ ] 4.1
+  - [x] 4.1
   - [ ] 4.2
   - [ ] 4.3
   - [ ] 4.4
