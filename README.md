@@ -8,7 +8,7 @@ Note: This code is purely for reference purposes. I do not condone code plagiari
 Please see the CodeHS Terms [here](https://codehs.com/terms).
 
 ## Progress as of:
-November 4th, 2022 (oh my god we finally finished that godforsaken codio project and took the unit 3 test)
+November 5th, 2022
 
 - [x] Unit 1
 - [x] Unit 2
@@ -20,9 +20,9 @@ November 4th, 2022 (oh my god we finally finished that godforsaken codio project
   - [x] 5.3
   - [x] 5.4
   - [x] 5.5
-  - [ ] 5.6
-  - [ ] 5.7
-  - [ ] 5.8
+  - [x] 5.6
+  - [x] 5.7
+  - [x] 5.8
   - [ ] 5.9
 - [ ] Unit 6
 - [ ] Unit 7
