@@ -14,17 +14,8 @@ November 5th, 2022
 - [x] Unit 2
 - [x] Unit 3 
 - [x] Unit 4
-- [ ] Unit 5
-  - [x] 5.1
-  - [x] 5.2
-  - [x] 5.3
-  - [x] 5.4
-  - [x] 5.5
-  - [x] 5.6
-  - [x] 5.7
-  - [x] 5.8
-  - [ ] 5.9
-- [ ] Unit 6
+- [x] Unit 5
+- [x] Unit 6
 - [ ] Unit 7
 - [ ] Unit 8
 - [ ] Unit 9
