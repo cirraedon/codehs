@@ -17,7 +17,7 @@ December 31, 2022
 - [x] Unit 5
 - [x] Unit 6
 - [x] Unit 7
-- [ ] Unit 8
+- [x] Unit 8
 - [ ] Unit 9
   - [x] 9.1 
   - [ ] 9.2
