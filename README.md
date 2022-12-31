@@ -16,7 +16,7 @@ November 5th, 2022
 - [x] Unit 4
 - [x] Unit 5
 - [x] Unit 6
-- [ ] Unit 7
+- [x] Unit 7
 - [ ] Unit 8
 - [ ] Unit 9
   - [x] 9.1 
